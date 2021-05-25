@@ -7,3 +7,6 @@ There are three types of recommendation systems generally: collaborative filteri
 ![alt text](https://github.com/sayeh31/recommender-system-based-on-collaborative-filtering-using-SVD/blob/main/aproach.png)
 
 
+a hybrid recommendation system on a movielens dataset, based on collaborative filtering and using dimensional reduction techniques (SVD) is implemented in this repository.
+
+
